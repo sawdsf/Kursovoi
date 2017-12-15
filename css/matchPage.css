@@ -1,0 +1,20 @@
+html {
+    background: #1e1e1e;
+}
+.row {
+	color: white;
+	font-size: 35px;
+}
+.team_img, .team_name, .bet {
+	display: inline-block;
+}
+
+#vs_text {
+	font-size: 38px;
+	vertical-align: super;
+}
+body {
+	margin:0;
+	background: #1e1e1e;
+	background-image: url(../images/dota2Fon.jpg);
+}

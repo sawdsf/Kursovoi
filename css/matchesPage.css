@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    background-image: url(../images/bg.jpg);
+    background-size: 100% 100%;
+}
+.matchesList {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    left: 10%;
+    top: 80px;
+    position: absolute;
+}
+.matchesList table {
+    margin: 0;
+}
+.matchesList .line {
+    background-color: rgb(97, 97, 97);
+    line-height: 20px;
+}
+
+.matchesList tr {
+    border: 1px solid #000;
+    vertical-align: middle;
+    text-align: center;
+    padding: 8px;
+    background-color: #444;
+    width: 80%;
+}
+
+
+.vsIcon {
+    position: relative;
+    top: -16px;
+    width: 32px;
+    height: 32px;
+}
+
+.matchesList a {
+    text-decoration: unset;
+    color: black;
+    font-family: "impact";
+}
+
+.matchesList th {
+    text-align: center;
+    display: inline-block;
+    padding: 8px;
+    
+}
+
+.matchesList text {
+    margin-left: 8px;
+    margin-right: 8px;
+    position: relative;
+    top: -10px;
+}
+
+.left {
+    background-image: url("../images/left.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 43%;
+    text-align: right;
+    margin: 0 0 0 0;
+}
+
+.middle {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    position: relative;
+    text-align: center;
+    width: 100px;
+
+}.right {
+    background-image: url("../images/right.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 43%;
+    text-align: left;
+    margin: 0 0 0 0;
+}
+
+.emptyDiv {
+    height: 20px;
+}
