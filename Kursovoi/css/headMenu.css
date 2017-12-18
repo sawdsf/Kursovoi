@@ -17,7 +17,7 @@
 .head-menu img.brand {
     width: 40px;
     height: 40px;
-    padding: 6px;
+    padding: 5px;
     top: 2px;
     position: relative;
 }
@@ -39,11 +39,11 @@
 .head-menu li a {
     display: block;
     font-weight:bold;
-    font-family:'Gill Sans MT',  sans-serif;
-    font-size:25px;
+    font-family:'Times New Roman';
+    font-size:24px;
     color:black;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 2px;
     text-decoration: none;
 }
 
