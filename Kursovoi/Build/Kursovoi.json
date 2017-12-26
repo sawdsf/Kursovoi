@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Kursovoi.data.unityweb",
+"asmCodeUrl": "Kursovoi.asm.code.unityweb",
+"asmMemoryUrl": "Kursovoi.asm.memory.unityweb",
+"asmFrameworkUrl": "Kursovoi.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

@@ -2,7 +2,7 @@ function create_headMenu( activeIndex = -1 ) {
     var navItems = [
         {href: "./main.html", text: "Теоретическая часть"},
         {href: "./description.html", text: "Описание установки"},
-        {href: "./practical.html", text: "Практическая часть"}
+        {href: "./index.html", text: "Практическая часть"}
         
     ];
     var navElem  = document.createElement("nav"),
